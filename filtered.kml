@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:ns2="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <ns2:Document>
+        <ns2:name>newKmls</ns2:name>
+        <ns2:Placemark>
+            <ns2:name>OP2</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:13:51</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81320794,32.16876665</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Howmanyistwo</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:13:51</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81320794,32.16876665</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Robert1</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:13:51</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81320794,32.16876665</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>BezeqFree</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:13:51</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81320794,32.16876665</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>osnatg370</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:13:51</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81320794,32.16876665</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>NGOGA</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:13:51</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81320794,32.16876665</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Lubelsky</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:13:51</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81320794,32.16876665</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>tslila</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:13:51</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81320794,32.16876665</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>DIRECT-35-HP DeskJet 3830 series</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:13:51</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81320794,32.16876665</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>BezeqFree</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:13:53</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81321225,32.16876425</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Robert1</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:07</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81323603,32.16870993</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>DIRECT-35-HP DeskJet 3830 series</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:07</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81323603,32.16870993</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>HUAWEI-C7FB</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:07</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81323603,32.16870993</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>hilda</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:07</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81323603,32.16870993</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>DIRECT-A5-HP DeskJet 4670 series</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81237006,32.16881033</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>May</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81237006,32.16881033</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>HOTBOX-D1D7</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81237006,32.16881033</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Fuck Off Yourself</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81237006,32.16881033</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>ben moshe</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:12:01</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81328609,32.16857397</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>ben moshe</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:12:01</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81328609,32.16857397</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Robert1</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:14:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81322274,32.16866695</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Howmanyistwo</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:14:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81322274,32.16866695</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>tslila</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:14:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81322274,32.16866695</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>BezeqFree</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:14:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81322274,32.16866695</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>osnatg370</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:14:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81322274,32.16866695</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>OP2</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:14:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81322274,32.16866695</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>NGOGA</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:14:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81322274,32.16866695</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>DIRECT-35-HP DeskJet 3830 series</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:14:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81322274,32.16866695</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>HUAWEI-C7FB</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:14:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81322274,32.16866695</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>DIRECT-35-HP DeskJet 3830 series</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:14:52</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81321794,32.16868001</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ester</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:14:52</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81321794,32.16868001</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>BezeqFree</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:07</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81321713,32.16868528</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>hilda</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:07</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81321713,32.16868528</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>DIRECT-A5-HP DeskJet 4670 series</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81238415,32.16882634</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>LANDAU HOME</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81238415,32.16882634</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>May</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81238415,32.16882634</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>HOTBOX-D1D7</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81238415,32.16882634</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>HOTBOX-72B6</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81238415,32.16882634</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>AEH-W4A1-b0411d287904</ns2:name>
+            <ns2:TimeStamp>
+                <ns2:when>2017-10-27 16:15:37</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:Point>
+                <ns2:coordinates>34.81238415,32.16882634</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+    </ns2:Document>
+</ns2:kml>
