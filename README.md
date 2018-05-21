@@ -18,7 +18,18 @@ In the Writing Package I used openCSV to simply write the data to '.csv' file an
 Algorithems that used to find the **estimated location** of a scan using the previous data we have.
 In this package I used 2 algorithems:
   1. The first naive algorithem is to find the strongest scan by MAC and return its location.
-  2. The second and the smarter algorithem, takes all the scans with the correct MAC address, and calculate it with the signal so we can have weighted center point that provide us more accuracy.
+  2. The second and the smarter algorithem, takes all the scans with the correct MAC address, and calculate it with the signal so we can have weighted center point that provide us more accuracy.  
+  
+### Filter Package
+In this package I made some filters to help manage the data as I wish.  
+The 3 main filters are:
+  1. By id.
+  2. By location.
+  3. By time.
+
+With all of this filters we can use **And/Not** filters to say something like 'give me this location and not at this time'.  
+ 
+
 
 
 
