@@ -27,7 +27,7 @@ The 3 main filters are:
   2. By location.
   3. By time.
 
-With all of this filters we can use **And/Not** filters to say something like 'give me this location and not at this time'.  
+With all of this filters we can use **And/Not** filters to say something like **'give me this location and not at this time'**.  
  
 
 
