@@ -32,9 +32,9 @@ With all of this filters we can use **And/Not** filters to say something like **
 ### GUI
 For building this gui I used javafx.  
 In this gui, I used another thread to determine if the files I rely on have changed or not, if they did changed, the program will update itself without changing the filters the user picked and will show you the current situation for the scans including the filters.
-
-
-
+  
+  
+  
 #### Testing
 JUint test for the project.
  
